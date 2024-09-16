@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi NaCl there 👋
 
 <!--
 **NaClwww/NaClwww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+A CS undergraduate students at Hangzhou Dianzi University.
+Have no idea to do now.
